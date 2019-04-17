@@ -1,0 +1,106 @@
+Assignment 2 Output:
+C:\Users\Sayf_PC\Desktop\CIS_400>python assignment2.py
+Fetched 34 total friends ids for 938267362285015040
+Fetched 11 total followers ids for 938267362285015040
+Most popular friends for 938267362285015040: [2903066121, 1053454818, 2172576189, 157803003, 361255468]
+Fetched 815 total friends ids for 2903066121
+Fetched 848 total followers ids for 2903066121
+Most popular friends for 2903066121: [362925436, 227155274, 1012344390, 547784169, 3222816488]
+Fetched 537 total friends ids for 1053454818
+Fetched 526 total followers ids for 1053454818
+Most popular friends for 1053454818: [378376122, 102872654, 73353290, 475370792, 722306228]
+Fetched 340 total friends ids for 2172576189
+Fetched 418 total followers ids for 2172576189
+Most popular friends for 2172576189: [1124164334, 1908079370, 930460668, 841106102, 288980574]
+Fetched 528 total friends ids for 157803003
+Fetched 220 total followers ids for 157803003
+Most popular friends for 157803003: [11026952, 27760317, 3022889996, 23024926, 52050545]
+Fetched 204 total friends ids for 361255468
+Fetched 199 total followers ids for 361255468
+Most popular friends for 361255468: [1083685380, 426119750, 372878359, 329288757, 2286049680]
+Fetched 5000 total friends ids for 362925436
+Fetched 5000 total followers ids for 362925436
+Most popular friends for 362925436: [1431218611, 823571457649184768, 826357795318554624, 2683042903, 2858564209]
+Fetched 5000 total friends ids for 227155274
+Fetched 5000 total followers ids for 227155274
+Most popular friends for 227155274: [17881816, 14645160, 76966092, 1406619086, 229385617]
+Fetched 5000 total friends ids for 1012344390
+Fetched 5000 total followers ids for 1012344390
+Most popular friends for 1012344390: [2200980481, 23959413, 15076583, 55060090, 194355896]
+Fetched 4568 total friends ids for 547784169
+Fetched 5000 total followers ids for 547784169
+Most popular friends for 547784169: [379408088, 313087874, 30892730, 74452613, 394702063]
+Fetched 314 total friends ids for 3222816488
+Fetched 5000 total followers ids for 3222816488
+Most popular friends for 3222816488: [36201151, 2725587216, 463188421, 525973132, 1245274934]
+Fetched 5000 total friends ids for 378376122
+Fetched 5000 total followers ids for 378376122
+Most popular friends for 378376122: [14772687, 30744839, 2285177868, 2652465150, 20491275]
+Fetched 5000 total friends ids for 102872654
+Fetched 5000 total followers ids for 102872654
+Most popular friends for 102872654: [16234029, 2316383071, 292083207, 148303071, 1273130562]
+Fetched 5000 total friends ids for 73353290
+Fetched 5000 total followers ids for 73353290
+Most popular friends for 73353290: [30892730, 44733150, 1129248440, 42861755, 548765353]
+Fetched 540 total friends ids for 475370792
+Fetched 5000 total followers ids for 475370792
+Most popular friends for 475370792: [529547302, 1706169776, 350512140, 581317961, 2904727191]
+Encountered 429 Error (Rate Limit Exceeded)
+Retrying in 15 minutes...ZzZ...
+...ZzZ...Awake now and trying again.
+Fetched 745 total friends ids for 722306228
+Fetched 5000 total followers ids for 722306228
+Most popular friends for 722306228: [842485376, 3209045483, 2612159285, 19259558, 2284509008]
+Fetched 615 total friends ids for 1124164334
+Fetched 5000 total followers ids for 1124164334
+Most popular friends for 1124164334: [63796828, 100077645, 35547308, 18788558, 96483973]
+Fetched 2954 total friends ids for 1908079370
+Fetched 5000 total followers ids for 1908079370
+Most popular friends for 1908079370: [45266183, 21360280, 564000560, 19341413, 196415460]
+Fetched 5000 total friends ids for 930460668
+Fetched 5000 total followers ids for 930460668
+Most popular friends for 930460668: [2162304348, 1591635098, 1084914882, 938093623, 1386602072]
+Fetched 886 total friends ids for 841106102
+Fetched 5000 total followers ids for 841106102
+Most popular friends for 841106102: [19261752, 74226311, 26512202, 145294977, 2422199485]
+Fetched 905 total friends ids for 288980574
+Fetched 5000 total followers ids for 288980574
+Most popular friends for 288980574: [74452613, 186166968, 2157743257, 598808135, 918004020]
+Fetched 5000 total friends ids for 11026952
+Fetched 5000 total followers ids for 11026952
+Most popular friends for 11026952: []
+Fetched 5000 total friends ids for 27760317
+Fetched 5000 total followers ids for 27760317
+Most popular friends for 27760317: []
+Fetched 5000 total friends ids for 3022889996
+Fetched 5000 total followers ids for 3022889996
+Most popular friends for 3022889996: [248232279, 17925031, 20522624, 117672673, 1921669404]
+Fetched 1028 total friends ids for 23024926
+Fetched 5000 total followers ids for 23024926
+Most popular friends for 23024926: [89523939, 319396732, 133404204, 1416709147, 155038504]
+Fetched 4609 total friends ids for 52050545
+Fetched 5000 total followers ids for 52050545
+Most popular friends for 52050545: [197962366, 22411342, 103349566, 21439271, 199451056]
+Fetched 1080 total friends ids for 1083685380
+Fetched 1523 total followers ids for 1083685380
+Most popular friends for 1083685380: [838783507, 262902287, 1533181741, 81636113, 592817203]
+Fetched 445 total friends ids for 426119750
+Fetched 1038 total followers ids for 426119750
+Most popular friends for 426119750: [104063670, 1163817522, 2468463852, 452601454, 485881933]
+Fetched 1592 total friends ids for 372878359
+Fetched 1003 total followers ids for 372878359
+Most popular friends for 372878359: [34507480, 25970331, 15460081, 7117212, 104182691]
+Fetched 175 total friends ids for 329288757
+Fetched 867 total followers ids for 329288757
+Most popular friends for 329288757: [23603092, 15918501, 26265033, 23932737, 183485832]
+Encountered 429 Error (Rate Limit Exceeded)
+Retrying in 15 minutes...ZzZ...
+...ZzZ...Awake now and trying again.
+Fetched 646 total friends ids for 2286049680
+Fetched 839 total followers ids for 2286049680
+Most popular friends for 2286049680: [468726787, 3164503974, 536899716, 451109230, 582195948]
+C:\Users\Sayf_PC\AppData\Local\Programs\Python\Python37-32\lib\site-packages\networkx\drawing\nx_pylab.py:611: MatplotlibDeprecationWarning: isinstance(..., numbers.Number)
+  if cb.is_numlike(alpha):
+Number of nodes =  144
+Diameter =  6
+Average distance =  4.993395493395494
