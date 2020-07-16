@@ -7,6 +7,7 @@ import json
 import twitter
 from functools import partial
 from sys import maxsize as maxint
+import os
 
 #for Graph
 import networkx as nx
@@ -14,10 +15,10 @@ import pylab as plt
 
 #Example 1
 def oauth_login():
-    CONSUMER_KEY = 'BM82Bp4DVWR0F7WEfcyLbg8Aj'
-    CONSUMER_SECRET = 'wfaytQ5e1S4svlIrgqaeL1liTHpqLsOMJWgq096b6c80BNZpFC'
-    OAUTH_TOKEN = '938267362285015040-cmZBJVfJv4JOHtVmilUPQa7rIzy0skN'
-    OAUTH_TOKEN_SECRET = 'TQEB47j1FXWKwdJfbLagzXfrA1IOGd8l03sAlGFR2hPKi'
+    CONSUMER_KEY = os.environ.get("CONSUMER_KEY")
+    CONSUMER_SECRET = os.environ.get("CONSUMER_SECRET")
+    OAUTH_TOKEN = os.environ.get("OAUTH_TOKEN")
+    OAUTH_TOKEN_SECRET = os.environ.get("OAUTH_TOKEN_SECRET")
 
     auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,
                                CONSUMER_KEY, CONSUMER_SECRET)
